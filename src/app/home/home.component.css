@@ -1,0 +1,35 @@
+img { 
+    width: 1000px;
+    height: 600px;
+}
+
+.mydecoration{
+    -webkit-box-shadow: 0px 12px 19px -1px rgba(71,69,71,0.7);
+    -moz-box-shadow: 0px 12px 19px -1px rgba(71,69,71,0.7);
+    box-shadow: 0px 12px 19px -1px rgba(71,69,71,0.7);
+}
+
+
+
+
+
+img.alineadoTextoImagenAbajo{
+    vertical-align: text-bottom; 
+    width: 40px;
+    height: 40px; 
+}
+
+.valores{
+    display: flex !important;
+    box-sizing: border-box !important;
+}
+
+.photos-galery{
+    width: 450px;
+    height: 280px;
+}
+
+.photos-galery-lg{
+    width: 370px;
+    height: 470px;
+}

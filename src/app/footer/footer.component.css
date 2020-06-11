@@ -1,5 +1,5 @@
 .footer-bs {
-    background-color: #3c3d41;
+    background-color: #292929;
 	padding: 0px 20px;
 	color: rgba(255,255,255,1.00);
 	border-bottom-right-radius: 6px;
@@ -16,7 +16,7 @@
 .footer-bs .footer-nav ul.pages a { color:rgba(255,255,255,1.00); font-weight:bold; text-transform:uppercase; }
 .footer-bs .footer-nav ul.pages a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
 .footer-bs .footer-nav h4 {
-	font-size: 11px;
+	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	margin-bottom:10px;
@@ -29,7 +29,7 @@
 
 .footer-bs .footer-social ul { list-style:none; padding:0px; }
 .footer-bs .footer-social h4 {
-	font-size: 11px;
+	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 }
@@ -38,7 +38,7 @@
 .footer-bs .footer-social a:hover { color:rgba(255,255,255,0.80); text-decoration:none; }
 
 .footer-bs .footer-ns h4 {
-	font-size: 11px;
+	font-size: 14px;
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	margin-bottom:10px;
